@@ -39,3 +39,7 @@ body {
 .navbar-dark {
     background-color: #512da8;
 }
+
+.bg-color {
+    background-color: rgba(255, 190, 12, 0.924);
+}
